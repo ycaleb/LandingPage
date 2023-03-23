@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    box-sizing: border-box;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000c2;
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    font-size:90px;
+    padding-top: 240px;
+    font-weight: 900;
+    color: black;
+}
+
+h1 span{
+    color: lightgreen;
+    font-weight: 800;
+    -webkit-text-stroke-width: 2px;
+}
+
+p {
+    padding-top: 38px;
+    line-height: 140px;
+    font-size: 34px;
+    font-weight: 400;
+}
+
+p span{
+    color: lightgreen;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+a{
+    font-family: 'Spectral', serif;
+    padding:12px 24px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120px;
+    color: black;
+    opacity: 0.8;
+    text-decoration: none;
+}
+a:hover, .recipe{
+    background-color:lightgreen ;
+    text-decoration: none;
+    color: black;
+    opacity: 1;
+    border-radius: 100px;
+    font-weight: 600;
+    font-size:24px;
+}
+
+.recipe:hover{
+    transition: background 0.5s;
+    font-size:26px;
+}

@@ -1,7 +1,7 @@
 # LandingPage ![code (1)](https://user-images.githubusercontent.com/111933424/227999245-57414370-8c3a-4a04-9db2-4a9c786850e3.png)
 
 <br>
-Este reposiório consiste no desenvolvimento de três landing pages criadas em HTML e CSS durante a Jornada do Zero à Primeira Vaga, <br> lecionada pelo professor Mayk Brito, da equipe Rocketseat!
+Este reposiório consiste no desenvolvimento de três landing pages criadas em HTML e CSS durante a Jornada do Zero à Primeira Vaga, <br> lecionada pelo professor Mayk Brito, da equipe Rocketseat!<br><br><br>
 _____________________________________________________________________________________________________________________
 <br>
 
